@@ -1,8 +1,9 @@
 # myTwitter
 
 how to start 
-1. open termial go to project directory run command tsc -w
-2.open one more terminal go to project directory run command npm start
+#1. open termial go to project directory run command tsc -w
+
+#2.open one more terminal go to project directory run command npm start
 
 Tasks
 1.SignUp
